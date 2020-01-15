@@ -88,7 +88,7 @@ export default {
 }
 .contact-content  {
     max-width: 500px;
-    margin: 10rem auto;
+    margin: 5rem auto;
 }
 .input-span-placeholder {
     text-align: left;

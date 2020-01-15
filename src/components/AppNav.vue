@@ -50,7 +50,8 @@ export default {
 <style scoped>
 @media (max-width: 500px) {
   .topbar > .vs-row > .vs-col {
-    font-size: 0.85rem !important;
+    font-size: 14px !important;
+    overflow-x: hidden;
   }
 }
 </style>
