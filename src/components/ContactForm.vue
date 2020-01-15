@@ -42,6 +42,14 @@ export default {
 }
 </script>
 <style scoped>
+@media (max-width: 500) {
+    .contact-details {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+}
+</style>
+<style scoped>
 .contact-details {
     display: inline-flex;
     margin: 1rem 0;
